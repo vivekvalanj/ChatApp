@@ -18,9 +18,6 @@ YapChat is a Java-based Android application built using Android Studio. It provi
 - Cloudinary (for image uploads)
 - XML for UI design
 
-## 📷 Screenshots
-
-> (Add screenshots here in a `screenshots/` folder)
 
 ## 📦 Setup Instructions
 
