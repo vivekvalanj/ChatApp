@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384735678436",
+    "project_id": "yap-chat-ab95d",
+    "storage_bucket": "yap-chat-ab95d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384735678436:android:eda2a542fa23aef55841f1",
+        "android_client_info": {
+          "package_name": "com.example.yap_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9QK4QIG0sREJQtn3A_Vqb54u0InhaE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
